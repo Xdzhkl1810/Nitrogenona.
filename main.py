@@ -4,7 +4,7 @@ st.markdown(
     """
     <style>
     html, body, [class*="css"]  {
-        font-family: 'monospace';
+        font-family: monospace;
     }
       .st-emotion-cache-6qob1r{
         background-color: #B99E97;
