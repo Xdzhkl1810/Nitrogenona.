@@ -2,16 +2,12 @@ import streamlit as st
 
 st.markdown(
     """
-    st.markdown(
-    """
     <style>
     
     .body {
         font-family: monospace;
     }
-     
-<style>
-     .st-emotion-cache-9u7m2j {
+    .st-emotion-cache-6qob1r {
         background-color: #B99E97;
     }
     .main {
@@ -21,7 +17,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
 
 option = st.sidebar.selectbox('Menu',['Welcome','Introduction','About Concentration','Kadar b/v','Kadar b/b'])
 if option == 'Welcome': 
