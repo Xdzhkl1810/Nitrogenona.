@@ -2,10 +2,6 @@ import streamlit as st
 
 st.markdown(
     """
-    <style>
-    html, body, [class*="css"]  {
-        font-family: monospace;
-    }
       .st-emotion-cache-6qob1r{
         background-color: #B99E97;
     }
@@ -14,6 +10,15 @@ st.markdown(
     }
     </style>
     """,
+    unsafe_allow_html=True
+)
+st.markdown(
+    """
+    <style>
+    .body {
+        font-family: monospace;
+    }
+     """,
     unsafe_allow_html=True
 )
 
