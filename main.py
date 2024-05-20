@@ -6,7 +6,7 @@ st.markdown(
     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
     
     html, body, [class*="css"]  {
-        font-family: 'monospace', sans-serif;
+        font-family: 'monospace';
     }
       .st-emotion-cache-6qob1r{
         background-color: #B99E97;
