@@ -3,15 +3,12 @@ import streamlit as st
 st.markdown(
     """
     <style>
-    
-    .body {
-        font-family: monospace;
-    }
     .st-emotion-cache-6qob1r {
         background-color: #B99E97;
     }
     .main {
         background-color: ##F1F0EC;
+        font-family: monospace;
     }
     </style>
     """,
