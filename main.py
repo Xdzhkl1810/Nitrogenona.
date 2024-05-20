@@ -11,7 +11,7 @@ st.markdown(
     }
      
 <style>
-.st-emotion-cache-9u7m2j{
+     .st-emotion-cache-9u7m2j {
         background-color: #B99E97;
     }
     .main {
