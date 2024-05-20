@@ -9,7 +9,9 @@ st.markdown(
     .body {
         font-family: monospace;
     }
-      .st-emotion-cache-6qob1r{
+     
+<style>
+.st-emotion-cache-9u7m2j{
         background-color: #B99E97;
     }
     .main {
